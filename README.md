@@ -1,6 +1,6 @@
-# Personalised Task Manager
+# Assignment
 
-Welcome to the Personalised Task Manager, a web-based task management application. This application allows you to manage your tasks efficiently and effectively. You can access the deployed version of the application [here](https://personalised-task-manager-oyby.vercel.app/).
+Welcome to the Assignment, a web-based task management application. This application allows you to manage your tasks efficiently and effectively. .
 
 ## Important Note
 
@@ -72,6 +72,6 @@ For the backend:
 
 ## Author
 
-This project was developed by Vishal Bindal. You can find me on GitHub [here](https://github.com/vbindal).
+This project was developed by Rohit Kumar. You can find me on GitHub [here](https://github.com/vbindal).
 
-Enjoy managing your tasks with the Personalised Task Manager! If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the GitHub repository.
+Enjoy managing your tasks with the Assignment! If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the GitHub repository.
